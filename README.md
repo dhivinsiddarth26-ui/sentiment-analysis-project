@@ -15,3 +15,6 @@ A Streamlit web application that analyzes social media comments using NLP and Te
 - NLTK
 - TextBlob
 - Matplotlib
+
+
+  live working website: https://sentiment-analysis-project-p4kockqs8zkrezoarphwug.streamlit.app/
